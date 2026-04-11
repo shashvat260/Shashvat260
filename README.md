@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi my name is Shashvat👋 analyzing data to drive intelligent decision.
 
 <!--
 **shashvat260/Shashvat260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
