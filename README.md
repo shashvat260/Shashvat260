@@ -1,5 +1,5 @@
 # Hi there, I'm Shashvat Dev 👋
-### 🚀 3rd Year B.Tech CSE (AI & ML) Student | Aspiring Generative AI Engineer
+### 🚀 4th Year B.Tech CSE (AI & ML) Student | Aspiring Generative AI Engineer
 
 A passionate software developer specializing in training architectures, semantic retrieval networks, and building data-driven applications. Currently focused on mastering Large Language Models, Advanced RAG systems, and production model deployment.
 
